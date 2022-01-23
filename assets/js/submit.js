@@ -9,7 +9,7 @@ window.addEventListener("load", function() {
       body: data,
     })
     .then(() => {
-      alert("Success!");
+      alert("Thank you for signing Up! If You Do Not Recieve An Email Within 15 Minutes, Check Your Spam Folder, Or Email Us At Beta@copy3000.com");
     })
   });
 });
